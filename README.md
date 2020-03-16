@@ -4,7 +4,9 @@ A minimalist easy to use tool to play a sound after a given time in seconds
 
 ## usage
 
+``` bash
 pomodori [time in seconds]
+```
 
 ## dependencies
 
